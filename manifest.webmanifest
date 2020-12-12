@@ -1,0 +1,16 @@
+{
+  "short_name": "SKK",
+  "name": "Stoltz KundenKontakte",
+  "description": "Kundenkontaktverwaltung",
+  "icons": [
+   {
+    "src": "/img/touch-icon-iphone-retina.png",
+    "type": "image/png",
+    "sizes": "180x180"
+   }
+  ],
+  "start_url": "/skk/",
+  "background_color": "#FFFFFF",
+  "theme_color": "#FFFFFF",
+  "display": "standalone"
+}
